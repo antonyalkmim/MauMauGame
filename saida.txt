@@ -1,0 +1,583 @@
+
+--------------
+ID Jogador: 0 M3 L3 K3 J3 I3 
+carta jogada: M3
+
+--------------
+
+
+--------------
+carta lixo: M3
+ID Jogador: 2 C3 B3 A3 M2 L2 
+carta jogada: M2
+
+--------------
+
+--------------
+carta lixo: M2
+ID Jogador: 1 H3 G3 F3 E3 D3 
+topo_monte:K2
+
+carta jogada: K2
+
+--------------
+
+--------------
+carta lixo: K2
+ID Jogador: 0 L3 K3 J3 I3 
+carta jogada: K3
+
+--------------
+
+--------------
+carta lixo: K3
+ID Jogador: 2 C3 B3 A3 L2 
+carta jogada: C3
+
+--------------
+
+--------------
+carta lixo: C3
+ID Jogador: 1 H3 G3 F3 E3 D3 
+carta jogada: H3
+
+--------------
+
+--------------
+carta lixo: H3
+ID Jogador: 0 L3 J3 I3 
+carta jogada: L3
+
+--------------
+
+--------------
+carta lixo: L3
+ID Jogador: 2 B3 A3 L2 
+carta jogada: B3
+
+--------------
+
+--------------
+carta lixo: B3
+ID Jogador: 1 G3 F3 E3 D3 
+carta jogada: G3
+
+--------------
+
+--------------
+carta lixo: G3
+ID Jogador: 0 J3 I3 J2 I2 
+carta jogada: J3
+
+--------------
+
+--------------
+carta lixo: J3
+ID Jogador: 2 A3 L2 
+carta jogada: A3
+
+--------------
+
+--------------
+carta lixo: A3
+ID Jogador: 0 I3 J2 I2 
+carta jogada: I3
+
+--------------
+
+--------------
+carta lixo: I3
+ID Jogador: 1 F3 E3 D3 H2 G2 F2 
+carta jogada: F3
+
+--------------
+
+--------------
+carta lixo: F3
+ID Jogador: 2 L2 
+topo_monte:E2
+
+
+carta jogada: K3
+
+--------------
+
+--------------
+carta lixo: F3
+ID Jogador: 0 J2 I2 
+topo_monte:D2
+
+
+carta jogada: K3
+
+--------------
+
+--------------
+carta lixo: F3
+ID Jogador: 1 E3 D3 H2 G2 F2 
+carta jogada: E3
+
+--------------
+
+--------------
+carta lixo: E3
+ID Jogador: 2 L2 E2 
+topo_monte:C2
+
+carta jogada: E2
+
+--------------
+
+--------------
+carta lixo: E2
+ID Jogador: 0 J2 I2 D2 
+carta jogada: J2
+
+--------------
+
+--------------
+carta lixo: J2
+ID Jogador: 1 D3 H2 G2 F2 
+carta jogada: H2
+
+--------------
+
+--------------
+carta lixo: H2
+ID Jogador: 2 L2 C2 
+carta jogada: L2
+
+--------------
+
+--------------
+carta lixo: L2
+ID Jogador: 0 I2 D2 
+carta jogada: I2
+
+--------------
+
+--------------
+carta lixo: I2
+ID Jogador: 2 C2 B2 A2 M1 
+carta jogada: C2
+
+--------------
+
+--------------
+carta lixo: C2
+ID Jogador: 1 D3 G2 F2 
+carta jogada: G2
+
+--------------
+
+--------------
+carta lixo: G2
+ID Jogador: 0 D2 L1 K1 
+carta jogada: D2
+
+--------------
+
+--------------
+carta lixo: D2
+ID Jogador: 2 B2 A2 M1 
+carta jogada: B2
+
+--------------
+
+--------------
+carta lixo: B2
+ID Jogador: 1 D3 F2 
+carta jogada: F2
+
+--------------
+
+--------------
+carta lixo: F2
+ID Jogador: 0 L1 K1 
+topo_monte:J1
+
+
+carta jogada: K2
+
+--------------
+
+--------------
+carta lixo: F2
+ID Jogador: 2 A2 M1 
+carta jogada: A2
+
+--------------
+
+--------------
+carta lixo: A2
+ID Jogador: 0 L1 K1 J1 
+topo_monte:I1
+
+
+carta jogada: K2
+
+--------------
+
+--------------
+carta lixo: A2
+ID Jogador: 2 M1 
+topo_monte:H1
+
+
+carta jogada: K2
+
+--------------
+
+--------------
+carta lixo: A2
+ID Jogador: 1 D3 
+topo_monte:G1
+
+
+carta jogada: K2
+
+--------------
+
+--------------
+carta lixo: A2
+ID Jogador: 0 L1 K1 J1 I1 
+topo_monte:F1
+
+
+carta jogada: K2
+
+--------------
+
+--------------
+carta lixo: A2
+ID Jogador: 2 M1 H1 
+topo_monte:E1
+
+
+carta jogada: K2
+
+--------------
+
+--------------
+carta lixo: A2
+ID Jogador: 1 D3 G1 
+topo_monte:D1
+
+
+carta jogada: K2
+
+--------------
+
+--------------
+carta lixo: A2
+ID Jogador: 0 L1 K1 J1 I1 F1 
+topo_monte:C1
+
+
+carta jogada: K2
+
+--------------
+
+--------------
+carta lixo: A2
+ID Jogador: 2 M1 H1 E1 
+topo_monte:B1
+
+
+carta jogada: K2
+
+--------------
+
+--------------
+carta lixo: A2
+ID Jogador: 1 D3 G1 D1 
+topo_monte:A1
+
+
+carta jogada: K2
+
+--------------
+
+--------------
+carta lixo: A2
+ID Jogador: 0 L1 K1 J1 I1 F1 C1 
+topo_monte:M0
+
+
+carta jogada: K2
+
+--------------
+
+--------------
+carta lixo: A2
+ID Jogador: 2 M1 H1 E1 B1 
+topo_monte:L0
+
+
+carta jogada: K2
+
+--------------
+
+--------------
+carta lixo: A2
+ID Jogador: 1 D3 G1 D1 A1 
+topo_monte:K0
+
+carta jogada: A1
+
+--------------
+
+--------------
+carta lixo: A1
+ID Jogador: 2 M1 H1 E1 B1 L0 
+carta jogada: M1
+
+--------------
+
+--------------
+carta lixo: M1
+ID Jogador: 1 D3 G1 D1 K0 
+carta jogada: G1
+
+--------------
+
+--------------
+carta lixo: G1
+ID Jogador: 0 L1 K1 J1 I1 F1 C1 M0 J0 I0 
+carta jogada: L1
+
+--------------
+
+--------------
+carta lixo: L1
+ID Jogador: 2 H1 E1 B1 L0 
+carta jogada: H1
+
+--------------
+
+--------------
+carta lixo: H1
+ID Jogador: 1 D3 D1 K0 
+carta jogada: D1
+
+--------------
+
+--------------
+carta lixo: D1
+ID Jogador: 0 K1 J1 I1 F1 C1 M0 J0 I0 
+carta jogada: K1
+
+--------------
+
+--------------
+carta lixo: K1
+ID Jogador: 2 E1 B1 L0 
+carta jogada: E1
+
+--------------
+
+--------------
+carta lixo: E1
+ID Jogador: 1 D3 K0 
+topo_monte:H0
+
+
+carta jogada: K1
+
+--------------
+
+--------------
+carta lixo: E1
+ID Jogador: 0 J1 I1 F1 C1 M0 J0 I0 
+carta jogada: J1
+
+--------------
+
+--------------
+carta lixo: J1
+ID Jogador: 2 B1 L0 
+carta jogada: B1
+
+--------------
+
+--------------
+carta lixo: B1
+ID Jogador: 1 D3 K0 H0 
+topo_monte:G0
+
+
+carta jogada: K1
+
+--------------
+
+--------------
+carta lixo: B1
+ID Jogador: 0 I1 F1 C1 M0 J0 I0 
+carta jogada: I1
+
+--------------
+
+--------------
+carta lixo: I1
+ID Jogador: 1 D3 K0 H0 G0 F0 E0 D0 
+topo_monte:C0
+
+
+carta jogada: K1
+
+--------------
+
+--------------
+carta lixo: I1
+ID Jogador: 2 L0 
+topo_monte:B0
+
+
+carta jogada: K1
+
+--------------
+
+--------------
+carta lixo: I1
+ID Jogador: 0 F1 C1 M0 J0 I0 
+carta jogada: F1
+
+--------------
+
+--------------
+carta lixo: F1
+ID Jogador: 1 D3 K0 H0 G0 F0 E0 D0 C0 
+carta jogada: F0
+
+--------------
+
+--------------
+carta lixo: F0
+ID Jogador: 2 L0 B0 
+carta jogada: L0
+
+--------------
+
+--------------
+carta lixo: L0
+ID Jogador: 0 C1 M0 J0 I0 
+carta jogada: M0
+
+--------------
+
+--------------
+carta lixo: M0
+ID Jogador: 1 D3 K0 H0 G0 E0 D0 C0 
+carta jogada: K0
+
+--------------
+
+--------------
+carta lixo: K0
+ID Jogador: 2 B0 
+carta jogada: B0
+
+--------------
+Vencedor partida 1:Jogador 2
+
+--------------
+ID Jogador: 0 M3 L3 K3 J3 I3 
+carta jogada: M3
+
+--------------
+
+
+--------------
+carta lixo: M3
+ID Jogador: 2 H3 G3 F3 E3 D3 
+carta jogada: H3
+
+--------------
+
+--------------
+carta lixo: H3
+ID Jogador: 0 L3 K3 J3 I3 
+carta jogada: L3
+
+--------------
+
+--------------
+carta lixo: L3
+ID Jogador: 2 G3 F3 E3 D3 
+carta jogada: G3
+
+--------------
+
+--------------
+carta lixo: G3
+ID Jogador: 0 K3 J3 I3 C3 B3 
+carta jogada: K3
+
+--------------
+
+--------------
+carta lixo: K3
+ID Jogador: 2 F3 E3 D3 
+carta jogada: F3
+
+--------------
+
+--------------
+carta lixo: F3
+ID Jogador: 0 J3 I3 C3 B3 
+carta jogada: J3
+
+--------------
+
+--------------
+carta lixo: J3
+ID Jogador: 2 E3 D3 
+carta jogada: E3
+
+--------------
+
+--------------
+carta lixo: E3
+ID Jogador: 0 I3 C3 B3 
+carta jogada: I3
+
+--------------
+
+--------------
+carta lixo: I3
+ID Jogador: 2 D3 A3 M2 L2 
+carta jogada: D3
+
+--------------
+
+--------------
+carta lixo: D3
+ID Jogador: 0 C3 B3 
+carta jogada: C3
+
+--------------
+
+--------------
+carta lixo: C3
+ID Jogador: 2 A3 M2 L2 
+carta jogada: A3
+
+--------------
+
+--------------
+carta lixo: A3
+ID Jogador: 2 M2 L2 
+topo_monte:K2
+
+
+carta jogada: K3
+
+--------------
+
+--------------
+carta lixo: A3
+ID Jogador: 0 B3 
+carta jogada: B3
+
+--------------
+Vencedor partida 2:Jogador 0
